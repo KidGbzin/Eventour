@@ -1,4 +1,4 @@
-package com.example.trabalhobd
+package com.example.eventour
 
 import io.flutter.embedding.android.FlutterActivity
 
